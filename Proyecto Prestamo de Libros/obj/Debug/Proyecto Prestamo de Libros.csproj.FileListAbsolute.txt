@@ -1,0 +1,85 @@
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\bin\Debug\Proyecto Prestamo de Libros.exe.config
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\bin\Debug\Proyecto Prestamo de Libros.exe
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\bin\Debug\Proyecto Prestamo de Libros.pdb
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Form1.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Properties.Resources.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto Prestamo de Libros.csproj.GenerateResource.Cache
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto Prestamo de Libros.exe
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto Prestamo de Libros.pdb
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Elegir.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Registrarse.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Login.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Menu.resources
+c:\users\am_morales\documents\visual studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Acción_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Romance_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Ciencia_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Comedia_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Humor_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Juveniles_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F1_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F1.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Carrito_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F2.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Fanta_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F3cs.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F10.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F4.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F5.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F6.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F7.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F8.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.F9.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R1.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R10.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R2.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R3.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R4.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R5.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R6.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R7.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R8.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.R9.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C1.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C10.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C2.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C3.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C4.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C5.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C6.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C7.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C8.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.C9.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H1.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H10.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H2.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H3.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H4.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H5.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H6.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H7.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H8.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.H9.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J1.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J10.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J2.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J3.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J4cs.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J5.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J6.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J7.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J8.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.J9.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.LoginAdm.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.MenuAdm.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.RegistroAdm.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.Usuario_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InventarioF_UC.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InvF.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InvH.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InvFi.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InvR.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.InvJ.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.AdmPrinc.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto_Prestamo_de_Libros.UsuaPrinc.resources
+C:\Users\AM_Morales\Documents\Visual Studio 2015\Projects\Proyecto Prestamo de Libros\Proyecto Prestamo de Libros\obj\Debug\Proyecto Prestamo de Libros.csprojResolveAssemblyReference.cache
